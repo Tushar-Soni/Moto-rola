@@ -752,7 +752,7 @@
         justify-content: start;
     }
     .two-img img{
-        width: 45%;
+        width: 50%;
         height: auto;
     }
     .phn-sec .frm-crd{
@@ -770,13 +770,13 @@
         width: 50%;
         height: auto;
         padding: 5px;
-        background: red;
+        /* background: red; */
         text-align: start;
     }
     .phn-sec{
 
         padding-inline: 5px;
-        background: rgb(0, 0, 0);
+        /* background: rgb(0, 0, 0); */
         justify-content: space-between;
     }
     .frm-crd img {
